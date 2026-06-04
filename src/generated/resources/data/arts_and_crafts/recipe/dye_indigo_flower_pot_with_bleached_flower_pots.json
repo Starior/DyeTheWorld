@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "flower_pots",
+  "ingredients": [
+    {
+      "item": "dye_depot:indigo_dye"
+    },
+    {
+      "item": "minecraft:flower_pot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dye_the_world:indigo_flower_pot"
+  }
+}

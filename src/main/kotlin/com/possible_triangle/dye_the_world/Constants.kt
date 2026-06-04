@@ -37,5 +37,6 @@ object Constants {
         const val CONNECTED_GLASS = "connectedglass"
         const val BOTANY_POTS = "botanypots"
         const val VANILLA_BACKPORT = "vanillabackport"
+        const val ARTS_AND_CRAFTS = "arts_and_crafts"
     }
 }

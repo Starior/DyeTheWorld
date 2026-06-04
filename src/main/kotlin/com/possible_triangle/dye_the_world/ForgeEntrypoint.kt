@@ -2,6 +2,7 @@ package com.possible_triangle.dye_the_world
 
 import com.possible_triangle.dye_the_world.compat.CreateCompat
 import com.possible_triangle.dye_the_world.compat.VanillaBackportsCompat
+import com.possible_triangle.dye_the_world.data.ArtsAndCraftsAssetProvider
 import com.possible_triangle.dye_the_world.data.createDyeRecipes
 import com.possible_triangle.dye_the_world.data.generateColorSetModifications
 import com.possible_triangle.dye_the_world.data.generateGlassShardLoot
@@ -61,6 +62,10 @@ object ForgeEntrypoint {
             MOD_BUS.addListener { _: FMLClientSetupEvent -> VanillaBackportsCompat.registerHarnessLayers() }
         }
 
+        ifLoaded(Constants.Mods.ARTS_AND_CRAFTS) {
+            DyedArtsAndCrafts.register()
+        }
+
         if (DatagenModLoader.isRunningDataGen()) {
             Constants.LOGGER.debug("registering datagen")
 
@@ -89,6 +94,7 @@ object ForgeEntrypoint {
             DyedBotanyPots.register()
             DyedSimulated.register()
             DyedAeronautics.register()
+            REGISTRATE.addDataGenerator(ArtsAndCraftsAssetProvider.TYPE) { }
         }
     }
 }

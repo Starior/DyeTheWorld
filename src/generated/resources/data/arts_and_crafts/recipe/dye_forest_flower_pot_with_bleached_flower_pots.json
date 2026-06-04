@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "flower_pots",
+  "ingredients": [
+    {
+      "item": "dye_depot:forest_dye"
+    },
+    {
+      "item": "minecraft:flower_pot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dye_the_world:forest_flower_pot"
+  }
+}

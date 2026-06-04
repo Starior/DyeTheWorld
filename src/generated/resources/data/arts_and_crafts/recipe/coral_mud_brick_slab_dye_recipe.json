@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "mud_brick_slab",
+  "key": {
+    "K": {
+      "item": "minecraft:mud_brick_slab"
+    },
+    "Q": {
+      "item": "dye_depot:coral_dye"
+    }
+  },
+  "pattern": [
+    "KKK",
+    "KQK",
+    "KKK"
+  ],
+  "result": {
+    "count": 8,
+    "id": "dye_the_world:coral_mud_brick_slab"
+  }
+}

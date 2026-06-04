@@ -31,6 +31,7 @@ neoforge {
         existing("botanypots")
         existing("simulated")
         existing("aeronautics")
+        existing("arts_and_crafts")
     }
 }
 
@@ -152,6 +153,22 @@ dependencies {
 
 tasks.processResources {
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+}
+
+// runData writes to src/generated/resources after classes compile; copy fresh output into
+// build/resources/main so the jar picks up recipes/assets without a processResources ↔ runData cycle.
+val syncGeneratedResources = tasks.register<Copy>("syncGeneratedResources") {
+    dependsOn("runData")
+    from("src/generated/resources") {
+        // Main resources already contain the full dye_the_world lang file; generated lang is a subset.
+        exclude("assets/dye_the_world/lang/**")
+    }
+    into(layout.buildDirectory.dir("resources/main"))
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+}
+
+tasks.named("jar") {
+    dependsOn(syncGeneratedResources)
 }
 
 upload {

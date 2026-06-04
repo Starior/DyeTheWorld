@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "mud_brick_wall",
+  "key": {
+    "K": {
+      "item": "minecraft:mud_brick_wall"
+    },
+    "Q": {
+      "item": "dye_depot:forest_dye"
+    }
+  },
+  "pattern": [
+    "KKK",
+    "KQK",
+    "KKK"
+  ],
+  "result": {
+    "count": 8,
+    "id": "dye_the_world:forest_mud_brick_wall"
+  }
+}

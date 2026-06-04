@@ -1,0 +1,109 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "flower_pots",
+  "ingredients": [
+    {
+      "item": "dye_depot:forest_dye"
+    },
+    [
+      {
+        "item": "arts_and_crafts:white_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:orange_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:magenta_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:light_blue_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:yellow_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:lime_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:pink_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:gray_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:light_gray_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:cyan_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:purple_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:blue_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:brown_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:green_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:red_flower_pot"
+      },
+      {
+        "item": "arts_and_crafts:black_flower_pot"
+      },
+      {
+        "item": "dye_the_world:amber_flower_pot"
+      },
+      {
+        "item": "dye_the_world:aqua_flower_pot"
+      },
+      {
+        "item": "dye_the_world:beige_flower_pot"
+      },
+      {
+        "item": "dye_the_world:coral_flower_pot"
+      },
+      {
+        "item": "dye_the_world:ginger_flower_pot"
+      },
+      {
+        "item": "dye_the_world:indigo_flower_pot"
+      },
+      {
+        "item": "dye_the_world:maroon_flower_pot"
+      },
+      {
+        "item": "dye_the_world:mint_flower_pot"
+      },
+      {
+        "item": "dye_the_world:navy_flower_pot"
+      },
+      {
+        "item": "dye_the_world:olive_flower_pot"
+      },
+      {
+        "item": "dye_the_world:rose_flower_pot"
+      },
+      {
+        "item": "dye_the_world:slate_flower_pot"
+      },
+      {
+        "item": "dye_the_world:tan_flower_pot"
+      },
+      {
+        "item": "dye_the_world:teal_flower_pot"
+      },
+      {
+        "item": "dye_the_world:verdant_flower_pot"
+      }
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "dye_the_world:forest_flower_pot"
+  }
+}

@@ -1,4 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Keep repository metadata stable regardless of local autocrlf settings
+.gitattributes text eol=lf
+.gitignore text eol=lf
 # Disable autocrlf on generated files, they always generate with LF
 src/generated/**/*.json text eol=lf

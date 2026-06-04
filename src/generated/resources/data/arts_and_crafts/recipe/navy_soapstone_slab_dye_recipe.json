@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "soapstone_slab",
+  "key": {
+    "K": {
+      "item": "arts_and_crafts:soapstone_slab"
+    },
+    "Q": {
+      "item": "dye_depot:navy_dye"
+    }
+  },
+  "pattern": [
+    "KKK",
+    "KQK",
+    "KKK"
+  ],
+  "result": {
+    "count": 8,
+    "id": "dye_the_world:navy_soapstone_slab"
+  }
+}

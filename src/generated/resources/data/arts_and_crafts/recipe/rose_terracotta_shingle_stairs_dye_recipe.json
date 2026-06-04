@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "terracotta_shingle_stairs",
+  "key": {
+    "K": {
+      "item": "arts_and_crafts:terracotta_shingle_stairs"
+    },
+    "Q": {
+      "item": "dye_depot:rose_dye"
+    }
+  },
+  "pattern": [
+    "KKK",
+    "KQK",
+    "KKK"
+  ],
+  "result": {
+    "count": 8,
+    "id": "dye_the_world:rose_terracotta_shingle_stairs"
+  }
+}

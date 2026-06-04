@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "dye_the_world:maroon_chalk"
+  },
+  "result": {
+    "count": 1,
+    "id": "dye_the_world:maroon_chalk_stick"
+  }
+}

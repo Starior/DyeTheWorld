@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "mud_bricks",
+  "key": {
+    "K": {
+      "item": "minecraft:mud_bricks"
+    },
+    "Q": {
+      "item": "dye_depot:aqua_dye"
+    }
+  },
+  "pattern": [
+    "KKK",
+    "KQK",
+    "KKK"
+  ],
+  "result": {
+    "count": 8,
+    "id": "dye_the_world:aqua_mud_bricks"
+  }
+}
