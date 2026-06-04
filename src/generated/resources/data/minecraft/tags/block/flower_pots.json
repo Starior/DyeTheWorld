@@ -1,0 +1,2309 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "dye_the_world:amber_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:amber_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_potted_wither_rose",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_flower_pot",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_acacia_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_allium",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_azure_bluet",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_bamboo",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_birch_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_blue_orchid",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_brown_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_cactus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_cherry_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_cork_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_cornflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_crimson_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_dandelion",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_dark_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_dead_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_fern",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_jungle_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_lily_of_the_valley",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_mangrove_propagule",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_oak_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_orange_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_oxeye_daisy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_pink_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_poppy",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_flowering_azalea_bush",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_red_mushroom",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_red_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_spruce_sapling",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_torchflower",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_warped_fungus",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_warped_roots",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_white_tulip",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_potted_wither_rose",
+            "required": false
+        }
+    ]
+}

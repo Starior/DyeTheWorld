@@ -1,0 +1,69 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "dye_the_world:amber_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:aqua_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:beige_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:coral_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:forest_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:ginger_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:indigo_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:maroon_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:mint_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:navy_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:olive_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:rose_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:slate_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:tan_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:teal_chalk_dust",
+            "required": false
+        },
+        {
+            "id": "dye_the_world:verdant_chalk_dust",
+            "required": false
+        }
+    ]
+}

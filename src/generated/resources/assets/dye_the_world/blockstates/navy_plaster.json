@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "facing=down,waterlogged=false": {
+      "model": "arts_and_crafts:block/navy_plaster",
+      "x": 270
+    },
+    "facing=down,waterlogged=true": {
+      "model": "arts_and_crafts:block/navy_plaster",
+      "x": 270
+    },
+    "facing=east,waterlogged=false": {
+      "model": "arts_and_crafts:block/navy_plaster",
+      "y": 270
+    },
+    "facing=east,waterlogged=true": {
+      "model": "arts_and_crafts:block/navy_plaster",
+      "y": 270
+    },
+    "facing=north,waterlogged=false": {
+      "model": "arts_and_crafts:block/navy_plaster",
+      "y": 180
+    },
+    "facing=north,waterlogged=true": {
+      "model": "arts_and_crafts:block/navy_plaster",
+      "y": 180
+    },
+    "facing=south,waterlogged=false": {
+      "model": "arts_and_crafts:block/navy_plaster"
+    },
+    "facing=south,waterlogged=true": {
+      "model": "arts_and_crafts:block/navy_plaster"
+    },
+    "facing=up,waterlogged=false": {
+      "model": "arts_and_crafts:block/navy_plaster",
+      "x": 90
+    },
+    "facing=up,waterlogged=true": {
+      "model": "arts_and_crafts:block/navy_plaster",
+      "x": 90
+    },
+    "facing=west,waterlogged=false": {
+      "model": "arts_and_crafts:block/navy_plaster",
+      "y": 90
+    },
+    "facing=west,waterlogged=true": {
+      "model": "arts_and_crafts:block/navy_plaster",
+      "y": 90
+    }
+  }
+}
